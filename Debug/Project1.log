@@ -1,0 +1,15 @@
+﻿  LinkedList.cpp
+C:\Users\creat\source\repos\Project1\LinkedList.h(233,9): error C2065: 'head': undeclared identifier
+C:\Users\creat\source\repos\Project1\LinkedList.h(233,9): error C3861: 'head': identifier not found
+C:\Users\creat\source\repos\Project1\LinkedList.h(235,11): error C3861: 'head': identifier not found
+C:\Users\creat\source\repos\Project1\LinkedList.h(238,3): error C3861: 'head': identifier not found
+C:\Users\creat\source\repos\Project1\LinkedList.h(238,10): error C3861: 'head': identifier not found
+C:\Users\creat\source\repos\Project1\LinkedList.h(241,14): error C3861: 'NodeCount': identifier not found
+  main.cpp
+C:\Users\creat\source\repos\Project1\LinkedList.h(233,9): error C2065: 'head': undeclared identifier
+C:\Users\creat\source\repos\Project1\LinkedList.h(233,9): error C3861: 'head': identifier not found
+C:\Users\creat\source\repos\Project1\LinkedList.h(235,11): error C3861: 'head': identifier not found
+C:\Users\creat\source\repos\Project1\LinkedList.h(238,3): error C3861: 'head': identifier not found
+C:\Users\creat\source\repos\Project1\LinkedList.h(238,10): error C3861: 'head': identifier not found
+C:\Users\creat\source\repos\Project1\LinkedList.h(241,14): error C3861: 'NodeCount': identifier not found
+  Generating Code...
